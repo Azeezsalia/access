@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: rgba(187, 89, 19, 0.555);
+
+    }
+.parent{
+    border: 10px;
+    border-width: 13px;
+    border-top-right-radius: 10px;
+    border-color: rgb(100, 45, 17);
+    border-style: solid;
+    background-color: blueviolet;
+    padding: 120px;
+    margin: 50px;
+}
+    
+button{
+    color: red;
+    background: blue;
+}
